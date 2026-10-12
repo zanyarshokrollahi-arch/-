@@ -1,0 +1,12 @@
+{
+  "name": "koocher-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "سایت آموزش زبان آلمانی کوچر — static site generator",
+  "type": "module",
+  "scripts": {
+    "build": "node build/build.mjs",
+    "serve": "node build/build.mjs && python3 -m http.server 8080 --directory docs"
+  },
+  "engines": { "node": ">=18" }
+}

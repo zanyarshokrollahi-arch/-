@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://koocher.example/</loc><lastmod>2026-10-12</lastmod><priority>1.0</priority></url>
+  <url><loc>https://koocher.example/courses/</loc><lastmod>2026-10-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://koocher.example/courses/a1/</loc><lastmod>2026-10-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://koocher.example/courses/a2/</loc><lastmod>2026-10-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://koocher.example/courses/b1/</loc><lastmod>2026-10-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://koocher.example/courses/b2/</loc><lastmod>2026-10-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://koocher.example/method/</loc><lastmod>2026-10-12</lastmod><priority>0.7</priority></url>
+  <url><loc>https://koocher.example/level-test/</loc><lastmod>2026-10-12</lastmod><priority>0.7</priority></url>
+  <url><loc>https://koocher.example/tools/der-die-das/</loc><lastmod>2026-10-12</lastmod><priority>0.7</priority></url>
+  <url><loc>https://koocher.example/about/</loc><lastmod>2026-10-12</lastmod><priority>0.7</priority></url>
+  <url><loc>https://koocher.example/contact/</loc><lastmod>2026-10-12</lastmod><priority>0.7</priority></url>
+  <url><loc>https://koocher.example/blog/</loc><lastmod>2026-10-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://koocher.example/blog/amoozesh-zaban-almani-az-sefr/</loc><lastmod>2026-10-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://koocher.example/blog/der-die-das/</loc><lastmod>2026-10-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://koocher.example/blog/sathhaye-zaban-almani/</loc><lastmod>2026-10-12</lastmod><priority>0.8</priority></url>
+  <url><loc>https://koocher.example/blog/takrar-fasele-dar-loghat-almani/</loc><lastmod>2026-10-12</lastmod><priority>0.8</priority></url>
+</urlset>
